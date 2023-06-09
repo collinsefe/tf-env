@@ -1,2 +1,2 @@
-bucket = "techbleat-terraform-state-files"
-key    = "dev/terraform.tfstate"
+bucket = "collinsorighose-tf-state"
+key    = "techbeat/dev/terraform.tfstate"
